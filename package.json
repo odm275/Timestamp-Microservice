@@ -1,0 +1,16 @@
+{
+  "name": "timestamp_microservice",
+  "version": "1.0.0",
+  "description": "Returns date in unix if given natural format and viceversa.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "odm275",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "moment": "^2.18.1",
+    "shopify-liquid": "^1.9.0"
+  }
+}
